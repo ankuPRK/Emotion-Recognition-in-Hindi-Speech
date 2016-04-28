@@ -28,7 +28,7 @@ with accuracy for male dataset being 89.08% and for female dataset being
 83.16%. The results are on par with the results obtained by training on full
 IITKGP-SEHSC dataset."
 
-Our main work was to use extracted MFCC & SSC features in such a way that can help the
-Classifiers to classify the emotion expressed by the speech utterances.
+Our main work was to explore different classifiers and to find the features that can help the
+Classifiers to classify the emotion expressed by the speech utterances with reasonable accuracy.
 
-But again, I request you to read the poster (and the report if you are patient enough) for exact details.
+I request you to read the poster (and the report if you are patient enough) for exact details.
